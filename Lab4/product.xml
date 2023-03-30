@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<products>
+    <product id="1">
+        <id>1</id>
+        <name>Gt-63S</name>
+        <bundle>Line Package</bundle>
+        <type>Regular</type>
+        <power>610Hp</power>
+        <price>1$</price>
+        <description>Brabus Rocket</description>
+    </product>
+    <product id="2">
+        <id>2</id>
+        <name>Gt-63S-E</name>
+        <bundle>Multimedia Package</bundle>
+        <type>Hybrid</type>
+        <power>580Hp</power>
+        <price>2$</price>
+        <description>ADRENALINE-FUELLED AESTHETICS</description>
+    </product>
+    <product id="3">
+        <id>3</id>
+        <name>CLS 63</name>
+        <bundle>Night Package</bundle>
+        <type>Regular</type>
+        <power>600Hp</power>
+        <price>3$</price>
+        <description>AMG</description>
+    </product>
+    <product id="4">
+        <id>4</id>
+        <name>G65</name>
+        <bundle>Line Package</bundle>
+        <type>Regular</type>
+        <power>570Hp</power>
+        <price>4$</price>
+        <description>Limited edition</description>
+    </product>
+</products>

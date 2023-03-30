@@ -1,0 +1,32 @@
+table.list-table {
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid #FFFFFF;
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.list-table td, table.list-table th {
+    border: 1px solid #FFFFFF;
+    padding: 3px 2px;
+  }
+  table.list-table tbody td {
+    font-size: 13px;
+  }
+  table.list-table tr:nth-child(even) {
+    background: #D0E4F5;
+  }
+  table.list-table thead {
+    background: #0B6FA4;
+    border-bottom: 5px solid #FFFFFF;
+  }
+  table.list-table thead th {
+    font-size: 17px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    border-left: 2px solid #FFFFFF;
+  }
+  table.list-table thead th:first-child {
+    border-left: none;
+  }
